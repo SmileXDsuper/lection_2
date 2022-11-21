@@ -27,3 +27,7 @@ https://www.youtube.com/watch?v=c5eiftsuS8g&t=169s
 ## Цитаты 
 
 ## Заключение
+
+>git pull обновление локального файла
+
+>git push выдача на удаленный файл
