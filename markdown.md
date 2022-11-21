@@ -21,7 +21,7 @@
 Чтобы вставить изображение в текст, достаточно написать следующее ![Привет, это тифтелька!](https://d2qp0siotla746.cloudfront.net/img/use-cases/profile-picture/template_3.jpg)
 
 ## Ссылки 
-
+https://www.youtube.com/watch?v=c5eiftsuS8g&t=169s
 ## Работа с таблицами 
 
 ## Цитаты 
